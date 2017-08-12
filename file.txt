@@ -1,0 +1,28 @@
+4
+50 100 0
+150 20 0
+0 0 30
+30 0 0
+
+Enter no. of people: 4
+Enter names of people
+Enter name: A
+Enter name: B
+Enter name: C
+Enter name: D
+How much A has to pay B: 50
+How much A has to pay C: 100
+How much A has to pay D: 0
+How much B has to pay A: 150
+How much B has to pay C: 20
+How much B has to pay D: 0
+How much C has to pay A: 0
+How much C has to pay B: 0
+How much C has to pay D: 30
+How much D has to pay A: 30
+How much D has to pay B: 0
+How much D has to pay C: 0
+
+B will pay 90 to C
+
+B will pay 30 to A
