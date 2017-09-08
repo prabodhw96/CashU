@@ -9,3 +9,5 @@ In fig.(c) total transactions are 2 and total cash involved in 120.<br>
 For algorithm, check final.cpp.<br>
 For finding out cash flow after minimization, check mincf.cpp.<br>
 To execute the program, download the project and click final.exe.<br>
+<br>##Demo!<br>
+https://www.youtube.com/watch?v=lOLqtkOa9Ic<br>
