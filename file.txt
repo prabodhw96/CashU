@@ -1,9 +1,11 @@
+Input:
 4
 50 100 0
 150 20 0
 0 0 30
 30 0 0
 
+Output:
 Enter no. of people: 4
 Enter names of people
 Enter name: A
